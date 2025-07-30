@@ -1,0 +1,201 @@
+Patient_ID,Admit_Date,Discharge_Date,Stay_Duration_Days,Department,Treatment,Revenue,City,Satisfaction_Score
+P1000,2024-03-11,2024-03-15,4,Oncology,Chemotherapy,6794.58,Delhi,1
+P1001,2024-01-23,2024-02-02,10,Oncology,Biopsy,10172.67,Bangalore,1
+P1002,2024-05-09,2024-05-19,10,Cardiology,Angioplasty,3451.11,Mumbai,2
+P1003,2024-04-17,2024-04-21,4,Oncology,Biopsy,10636.55,Bangalore,3
+P1004,2024-03-28,2024-04-02,5,Cardiology,Angioplasty,5643.15,Kolkata,3
+P1005,2024-01-25,2024-01-31,6,Cardiology,Angioplasty,17407.4,Kolkata,5
+P1006,2024-05-17,2024-05-19,2,Orthopedics,Knee Surgery,19542.97,Kolkata,4
+P1007,2024-06-09,2024-06-19,10,Cardiology,Pacemaker Implant,18052.68,Chennai,3
+P1008,2024-01-12,2024-01-16,4,General Surgery,Appendectomy,16142.16,Delhi,1
+P1009,2024-03-12,2024-03-20,8,Neurology,MRI,13806.64,Kolkata,3
+P1010,2024-02-23,2024-02-28,5,Neurology,EEG,14930.95,Chennai,1
+P1011,2024-05-16,2024-05-20,4,General Surgery,Hernia Repair,5777.84,Mumbai,4
+P1012,2024-02-26,2024-03-03,6,Orthopedics,Hip Replacement,17328.48,Bangalore,1
+P1013,2024-04-12,2024-04-17,5,Neurology,MRI,4125.21,Chennai,5
+P1014,2024-06-16,2024-06-24,8,Oncology,Radiation Therapy,9725.74,Mumbai,4
+P1015,2024-03-04,2024-03-13,9,Neurology,EEG,12162.61,Mumbai,5
+P1016,2024-04-02,2024-04-06,4,Pediatrics,Child Checkup,19954.54,Kolkata,2
+P1017,2024-01-13,2024-01-15,2,General Surgery,Gallbladder Removal,5598.3,Delhi,2
+P1018,2024-01-17,2024-01-24,7,Oncology,Radiation Therapy,9487.53,Bangalore,4
+P1019,2024-01-03,2024-01-05,2,General Surgery,Gallbladder Removal,14589.08,Bangalore,5
+P1020,2024-01-29,2024-02-03,5,Orthopedics,Hip Replacement,10391.01,Chennai,4
+P1021,2024-05-08,2024-05-11,3,Cardiology,Pacemaker Implant,11630.59,Chennai,1
+P1022,2024-06-04,2024-06-08,4,Oncology,Radiation Therapy,5598.27,Bangalore,2
+P1023,2024-06-02,2024-06-08,6,General Surgery,Hernia Repair,11306.3,Delhi,1
+P1024,2024-01-15,2024-01-19,4,Orthopedics,Fracture Fixation,17926.16,Mumbai,1
+P1025,2024-01-18,2024-01-27,9,Cardiology,Pacemaker Implant,16019.19,Kolkata,2
+P1026,2024-02-12,2024-02-17,5,Oncology,Radiation Therapy,11970.45,Bangalore,5
+P1027,2024-06-25,2024-06-29,4,Pediatrics,Vaccination,15120.13,Bangalore,4
+P1028,2024-04-22,2024-05-01,9,Oncology,Biopsy,10675.26,Chennai,2
+P1029,2024-01-06,2024-01-16,10,Neurology,MRI,12416.67,Chennai,5
+P1030,2024-06-10,2024-06-11,1,Neurology,MRI,6892.01,Delhi,1
+P1031,2024-03-01,2024-03-06,5,Orthopedics,Knee Surgery,14372.62,Bangalore,2
+P1032,2024-05-27,2024-06-04,8,General Surgery,Appendectomy,7130.95,Bangalore,4
+P1033,2024-01-25,2024-02-01,7,Pediatrics,Vaccination,9023.06,Delhi,4
+P1034,2024-06-21,2024-06-23,2,Pediatrics,Child Checkup,4030.42,Delhi,3
+P1035,2024-02-18,2024-02-27,9,Cardiology,Angioplasty,10626.43,Mumbai,4
+P1036,2024-03-04,2024-03-06,2,Neurology,EEG,10533.22,Kolkata,5
+P1037,2024-01-04,2024-01-06,2,Cardiology,Angioplasty,18748.24,Bangalore,2
+P1038,2024-05-03,2024-05-07,4,Neurology,EEG,17699.06,Kolkata,1
+P1039,2024-04-09,2024-04-14,5,Neurology,EEG,18750.81,Delhi,4
+P1040,2024-06-18,2024-06-26,8,Orthopedics,Fracture Fixation,5631.55,Bangalore,3
+P1041,2024-05-18,2024-05-19,1,Neurology,MRI,15715.58,Bangalore,1
+P1042,2024-05-08,2024-05-17,9,Cardiology,Pacemaker Implant,5676.36,Kolkata,5
+P1043,2024-06-01,2024-06-03,2,Cardiology,Angioplasty,14478.61,Delhi,2
+P1044,2024-03-04,2024-03-14,10,Pediatrics,Vaccination,13106.83,Bangalore,5
+P1045,2024-05-24,2024-06-02,9,Cardiology,ECG,8378.29,Bangalore,3
+P1046,2024-03-02,2024-03-07,5,Neurology,Brain Surgery,9728.36,Chennai,3
+P1047,2024-01-03,2024-01-11,8,Pediatrics,NICU Admission,13559.71,Delhi,5
+P1048,2024-02-24,2024-03-04,9,Cardiology,Angioplasty,7508.41,Bangalore,3
+P1049,2024-03-13,2024-03-16,3,Cardiology,Angioplasty,10449.14,Chennai,5
+P1050,2024-06-16,2024-06-25,9,Oncology,Radiation Therapy,3132.99,Bangalore,5
+P1051,2024-02-04,2024-02-09,5,Orthopedics,Hip Replacement,4962.29,Delhi,1
+P1052,2024-03-10,2024-03-15,5,Oncology,Biopsy,13282.11,Mumbai,3
+P1053,2024-05-09,2024-05-17,8,Neurology,Brain Surgery,7269.06,Chennai,1
+P1054,2024-03-11,2024-03-12,1,Cardiology,Pacemaker Implant,3060.28,Kolkata,2
+P1055,2024-04-23,2024-05-02,9,Oncology,Radiation Therapy,14996.35,Mumbai,5
+P1056,2024-06-25,2024-06-28,3,Cardiology,Angioplasty,12275.03,Delhi,3
+P1057,2024-04-20,2024-04-23,3,General Surgery,Hernia Repair,3711.09,Mumbai,3
+P1058,2024-06-23,2024-06-27,4,Cardiology,ECG,14337.87,Mumbai,3
+P1059,2024-02-09,2024-02-13,4,General Surgery,Gallbladder Removal,17698.3,Bangalore,2
+P1060,2024-03-26,2024-04-02,7,Pediatrics,Vaccination,16638.0,Mumbai,2
+P1061,2024-04-07,2024-04-08,1,Orthopedics,Knee Surgery,17596.09,Delhi,2
+P1062,2024-03-19,2024-03-23,4,Neurology,EEG,6789.7,Chennai,2
+P1063,2024-01-18,2024-01-23,5,Pediatrics,NICU Admission,8969.48,Chennai,5
+P1064,2024-03-25,2024-03-26,1,Pediatrics,Child Checkup,4960.81,Bangalore,3
+P1065,2024-01-10,2024-01-12,2,Neurology,Brain Surgery,13141.71,Chennai,3
+P1066,2024-06-04,2024-06-13,9,Oncology,Radiation Therapy,4965.98,Kolkata,5
+P1067,2024-04-21,2024-04-22,1,Neurology,EEG,11838.65,Delhi,5
+P1068,2024-04-03,2024-04-10,7,Oncology,Biopsy,4189.55,Mumbai,3
+P1069,2024-03-17,2024-03-26,9,General Surgery,Gallbladder Removal,8257.84,Delhi,4
+P1070,2024-05-21,2024-05-24,3,Orthopedics,Fracture Fixation,6261.28,Chennai,4
+P1071,2024-06-06,2024-06-16,10,Oncology,Biopsy,8116.15,Mumbai,5
+P1072,2024-02-23,2024-03-01,7,Cardiology,ECG,16357.9,Chennai,5
+P1073,2024-04-23,2024-05-01,8,Oncology,Radiation Therapy,14485.66,Kolkata,5
+P1074,2024-06-17,2024-06-19,2,Pediatrics,Child Checkup,7824.37,Mumbai,5
+P1075,2024-06-21,2024-06-26,5,Orthopedics,Knee Surgery,6818.89,Mumbai,2
+P1076,2024-03-03,2024-03-11,8,Neurology,MRI,13391.66,Delhi,1
+P1077,2024-02-19,2024-02-26,7,Pediatrics,NICU Admission,11404.41,Bangalore,2
+P1078,2024-01-28,2024-02-04,7,Neurology,Brain Surgery,6720.3,Delhi,5
+P1079,2024-03-04,2024-03-06,2,Pediatrics,Vaccination,10759.85,Bangalore,4
+P1080,2024-06-01,2024-06-07,6,Oncology,Biopsy,19150.67,Bangalore,4
+P1081,2024-04-19,2024-04-28,9,General Surgery,Hernia Repair,10580.53,Bangalore,2
+P1082,2024-03-07,2024-03-11,4,Oncology,Radiation Therapy,17277.67,Kolkata,3
+P1083,2024-03-11,2024-03-19,8,General Surgery,Gallbladder Removal,4317.22,Mumbai,3
+P1084,2024-03-22,2024-03-31,9,Neurology,EEG,4369.82,Chennai,2
+P1085,2024-06-29,2024-07-03,4,Neurology,EEG,4091.89,Mumbai,4
+P1086,2024-04-16,2024-04-17,1,Orthopedics,Hip Replacement,6516.18,Kolkata,4
+P1087,2024-05-27,2024-06-03,7,Pediatrics,Child Checkup,11108.66,Delhi,3
+P1088,2024-05-17,2024-05-26,9,Orthopedics,Fracture Fixation,16597.76,Kolkata,2
+P1089,2024-04-21,2024-04-29,8,Pediatrics,Vaccination,3493.42,Chennai,3
+P1090,2024-02-12,2024-02-20,8,Oncology,Biopsy,18632.21,Kolkata,5
+P1091,2024-05-31,2024-06-10,10,General Surgery,Appendectomy,14271.0,Kolkata,1
+P1092,2024-04-28,2024-05-01,3,Oncology,Radiation Therapy,3854.84,Mumbai,4
+P1093,2024-03-24,2024-03-30,6,Orthopedics,Knee Surgery,15940.91,Kolkata,4
+P1094,2024-01-21,2024-01-29,8,Orthopedics,Fracture Fixation,3329.52,Chennai,5
+P1095,2024-06-15,2024-06-17,2,Cardiology,ECG,16280.96,Mumbai,1
+P1096,2024-01-06,2024-01-16,10,Cardiology,Angioplasty,5590.5,Mumbai,2
+P1097,2024-05-24,2024-05-28,4,Pediatrics,Child Checkup,10905.58,Delhi,3
+P1098,2024-06-04,2024-06-06,2,Orthopedics,Knee Surgery,16222.46,Bangalore,2
+P1099,2024-01-07,2024-01-12,5,Orthopedics,Knee Surgery,12788.54,Bangalore,4
+P1100,2024-01-20,2024-01-30,10,Pediatrics,Child Checkup,14740.45,Mumbai,2
+P1101,2024-06-24,2024-07-04,10,Cardiology,Pacemaker Implant,16693.98,Chennai,5
+P1102,2024-04-19,2024-04-25,6,Cardiology,ECG,4172.26,Bangalore,3
+P1103,2024-01-28,2024-02-04,7,Cardiology,ECG,19333.39,Kolkata,4
+P1104,2024-02-15,2024-02-24,9,Oncology,Chemotherapy,19413.05,Kolkata,3
+P1105,2024-04-29,2024-05-06,7,General Surgery,Hernia Repair,17037.49,Kolkata,5
+P1106,2024-01-23,2024-01-28,5,Orthopedics,Fracture Fixation,17987.73,Mumbai,2
+P1107,2024-06-20,2024-06-27,7,Pediatrics,Child Checkup,8718.74,Bangalore,4
+P1108,2024-02-24,2024-03-01,6,Orthopedics,Knee Surgery,16563.15,Kolkata,3
+P1109,2024-05-22,2024-05-23,1,Orthopedics,Hip Replacement,11782.66,Chennai,2
+P1110,2024-05-05,2024-05-14,9,Cardiology,Angioplasty,15888.8,Kolkata,4
+P1111,2024-04-24,2024-04-25,1,Oncology,Biopsy,4581.91,Kolkata,2
+P1112,2024-03-19,2024-03-29,10,Pediatrics,Child Checkup,9273.35,Mumbai,5
+P1113,2024-05-20,2024-05-26,6,General Surgery,Gallbladder Removal,8980.78,Kolkata,4
+P1114,2024-02-29,2024-03-02,2,Orthopedics,Fracture Fixation,15261.83,Chennai,3
+P1115,2024-06-25,2024-06-28,3,Cardiology,Pacemaker Implant,6256.2,Bangalore,4
+P1116,2024-05-14,2024-05-24,10,Orthopedics,Hip Replacement,7810.98,Bangalore,1
+P1117,2024-04-02,2024-04-05,3,Neurology,EEG,8138.55,Mumbai,5
+P1118,2024-01-14,2024-01-23,9,Neurology,EEG,7966.32,Delhi,2
+P1119,2024-01-04,2024-01-14,10,Oncology,Radiation Therapy,7833.77,Delhi,4
+P1120,2024-01-14,2024-01-19,5,Pediatrics,NICU Admission,18998.08,Mumbai,4
+P1121,2024-05-05,2024-05-07,2,Cardiology,Angioplasty,12809.36,Kolkata,1
+P1122,2024-03-18,2024-03-20,2,Neurology,MRI,19896.61,Bangalore,1
+P1123,2024-06-01,2024-06-11,10,General Surgery,Gallbladder Removal,6836.68,Bangalore,5
+P1124,2024-03-17,2024-03-27,10,Pediatrics,NICU Admission,19830.53,Kolkata,3
+P1125,2024-06-05,2024-06-07,2,General Surgery,Hernia Repair,19109.03,Delhi,2
+P1126,2024-06-18,2024-06-20,2,Oncology,Chemotherapy,5669.97,Chennai,2
+P1127,2024-01-01,2024-01-08,7,General Surgery,Appendectomy,10658.56,Mumbai,5
+P1128,2024-02-29,2024-03-05,5,Pediatrics,NICU Admission,15018.25,Delhi,4
+P1129,2024-03-08,2024-03-18,10,Cardiology,Pacemaker Implant,14240.11,Mumbai,2
+P1130,2024-02-27,2024-03-01,3,Pediatrics,Vaccination,18442.99,Bangalore,2
+P1131,2024-03-19,2024-03-29,10,Cardiology,Angioplasty,15732.28,Mumbai,5
+P1132,2024-04-29,2024-05-04,5,Orthopedics,Fracture Fixation,14895.47,Delhi,3
+P1133,2024-04-22,2024-04-24,2,General Surgery,Hernia Repair,13166.62,Kolkata,4
+P1134,2024-03-05,2024-03-06,1,Oncology,Radiation Therapy,4552.56,Bangalore,5
+P1135,2024-05-27,2024-05-28,1,General Surgery,Appendectomy,15972.85,Chennai,2
+P1136,2024-03-12,2024-03-15,3,Pediatrics,Child Checkup,19948.07,Kolkata,4
+P1137,2024-04-30,2024-05-06,6,Oncology,Radiation Therapy,9941.92,Delhi,3
+P1138,2024-03-25,2024-04-01,7,Oncology,Chemotherapy,14792.45,Mumbai,3
+P1139,2024-01-10,2024-01-18,8,Oncology,Radiation Therapy,4497.02,Bangalore,3
+P1140,2024-05-11,2024-05-12,1,Orthopedics,Knee Surgery,14180.23,Kolkata,5
+P1141,2024-02-18,2024-02-27,9,Pediatrics,NICU Admission,9150.25,Delhi,4
+P1142,2024-02-22,2024-02-27,5,Oncology,Radiation Therapy,12336.73,Delhi,3
+P1143,2024-02-01,2024-02-02,1,Pediatrics,Child Checkup,19543.5,Kolkata,5
+P1144,2024-03-20,2024-03-29,9,Neurology,Brain Surgery,3232.47,Mumbai,4
+P1145,2024-04-28,2024-04-30,2,Cardiology,Angioplasty,14011.06,Delhi,2
+P1146,2024-05-10,2024-05-15,5,Pediatrics,Child Checkup,10063.34,Chennai,4
+P1147,2024-05-21,2024-05-24,3,Pediatrics,Vaccination,9520.96,Kolkata,5
+P1148,2024-01-18,2024-01-23,5,General Surgery,Hernia Repair,16135.48,Mumbai,4
+P1149,2024-01-01,2024-01-06,5,Orthopedics,Hip Replacement,15342.87,Chennai,5
+P1150,2024-02-08,2024-02-16,8,General Surgery,Hernia Repair,12155.87,Kolkata,3
+P1151,2024-04-06,2024-04-14,8,Orthopedics,Hip Replacement,18858.49,Bangalore,2
+P1152,2024-04-08,2024-04-12,4,Oncology,Chemotherapy,17552.22,Bangalore,4
+P1153,2024-06-29,2024-07-06,7,Cardiology,ECG,9563.34,Kolkata,2
+P1154,2024-05-08,2024-05-18,10,Pediatrics,Vaccination,8643.91,Mumbai,1
+P1155,2024-04-26,2024-04-27,1,Pediatrics,Vaccination,15281.55,Bangalore,4
+P1156,2024-04-30,2024-05-05,5,Oncology,Chemotherapy,8755.54,Delhi,4
+P1157,2024-06-21,2024-06-30,9,Oncology,Chemotherapy,9460.16,Chennai,3
+P1158,2024-05-18,2024-05-19,1,Oncology,Biopsy,13496.81,Kolkata,2
+P1159,2024-02-28,2024-03-01,2,Oncology,Biopsy,10377.52,Chennai,1
+P1160,2024-04-23,2024-04-26,3,Oncology,Biopsy,14798.02,Delhi,1
+P1161,2024-03-16,2024-03-22,6,Cardiology,ECG,9372.3,Delhi,2
+P1162,2024-05-24,2024-05-27,3,Neurology,Brain Surgery,5889.72,Kolkata,1
+P1163,2024-06-23,2024-06-27,4,General Surgery,Gallbladder Removal,11460.34,Bangalore,5
+P1164,2024-06-12,2024-06-17,5,Neurology,MRI,10812.7,Kolkata,1
+P1165,2024-02-10,2024-02-12,2,Pediatrics,NICU Admission,10509.41,Bangalore,3
+P1166,2024-06-25,2024-06-30,5,General Surgery,Gallbladder Removal,10766.21,Kolkata,3
+P1167,2024-01-28,2024-02-01,4,Neurology,EEG,9483.19,Kolkata,3
+P1168,2024-01-06,2024-01-13,7,General Surgery,Gallbladder Removal,7666.17,Chennai,5
+P1169,2024-06-04,2024-06-12,8,Oncology,Biopsy,17158.26,Delhi,3
+P1170,2024-02-26,2024-03-01,4,Neurology,Brain Surgery,13555.15,Chennai,2
+P1171,2024-03-20,2024-03-28,8,Oncology,Chemotherapy,3567.2,Delhi,3
+P1172,2024-03-16,2024-03-22,6,Oncology,Chemotherapy,15707.17,Delhi,2
+P1173,2024-04-03,2024-04-12,9,Neurology,MRI,11530.51,Bangalore,3
+P1174,2024-03-16,2024-03-22,6,Neurology,EEG,16671.95,Kolkata,4
+P1175,2024-06-22,2024-06-29,7,Cardiology,Angioplasty,19443.59,Mumbai,5
+P1176,2024-01-04,2024-01-09,5,Orthopedics,Knee Surgery,12121.73,Kolkata,4
+P1177,2024-05-29,2024-06-05,7,Orthopedics,Hip Replacement,16981.09,Chennai,3
+P1178,2024-04-30,2024-05-01,1,Cardiology,Pacemaker Implant,13532.3,Mumbai,5
+P1179,2024-06-14,2024-06-16,2,Orthopedics,Hip Replacement,13801.87,Mumbai,4
+P1180,2024-01-30,2024-02-02,3,Oncology,Radiation Therapy,3770.9,Kolkata,1
+P1181,2024-01-25,2024-01-29,4,Orthopedics,Fracture Fixation,18083.41,Delhi,2
+P1182,2024-06-20,2024-06-29,9,Pediatrics,NICU Admission,10125.15,Chennai,2
+P1183,2024-05-05,2024-05-15,10,Pediatrics,Child Checkup,9937.97,Delhi,3
+P1184,2024-02-25,2024-03-04,8,Cardiology,Pacemaker Implant,10559.83,Chennai,2
+P1185,2024-05-19,2024-05-25,6,Orthopedics,Knee Surgery,4029.35,Chennai,3
+P1186,2024-01-24,2024-01-28,4,Neurology,MRI,13908.98,Kolkata,5
+P1187,2024-03-03,2024-03-06,3,Cardiology,Angioplasty,16378.63,Chennai,2
+P1188,2024-05-30,2024-06-03,4,Cardiology,Pacemaker Implant,16821.9,Mumbai,2
+P1189,2024-01-01,2024-01-06,5,Orthopedics,Knee Surgery,17592.9,Bangalore,2
+P1190,2024-02-14,2024-02-16,2,Neurology,Brain Surgery,14237.98,Chennai,1
+P1191,2024-03-01,2024-03-11,10,Neurology,MRI,8504.11,Chennai,2
+P1192,2024-04-17,2024-04-26,9,Orthopedics,Knee Surgery,4932.04,Mumbai,1
+P1193,2024-05-11,2024-05-21,10,Pediatrics,NICU Admission,4853.92,Chennai,5
+P1194,2024-06-17,2024-06-26,9,Neurology,Brain Surgery,8127.72,Delhi,1
+P1195,2024-04-19,2024-04-21,2,Cardiology,ECG,11334.57,Kolkata,4
+P1196,2024-06-04,2024-06-07,3,Cardiology,Angioplasty,4116.6,Chennai,3
+P1197,2024-05-20,2024-05-26,6,General Surgery,Hernia Repair,9475.37,Bangalore,5
+P1198,2024-05-09,2024-05-19,10,General Surgery,Gallbladder Removal,10313.39,Kolkata,1
+P1199,2024-02-25,2024-03-03,7,Oncology,Biopsy,10676.43,Bangalore,2
